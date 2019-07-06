@@ -1,9 +1,9 @@
 # FidgetSpinnerOnline
 Play Fidget Spinner on your website!
 
-Just upload the php file to your website and done! :D
-Enjoy playing with that lol
+clone this repo and upload the html css and js files to your site 
+enjoy playing with that lol
 
-Example : http://emanhmc.ezyro.com/fidgetspinner.php
+demo : http://emanhmc.ezyro.com/fidgetspinner.php
 
-gimme credit wen u use dis pls
+licensed under creative commons 4.0
