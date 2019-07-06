@@ -6,4 +6,4 @@ enjoy playing with that lol
 
 demo : http://emanhmc.ezyro.com/fidgetspinner.php
 
-licensed under creative commons 4.0
+licensed under apache license 2.0
